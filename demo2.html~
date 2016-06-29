@@ -1,0 +1,16 @@
+<html>
+<body>
+<p>I am part of the HTML document!</p>
+<script>
+
+document.write("This came from my script, and c:\is now on the page");
+
+</script>
+<p><em>I am also part of the HTML document, after the script results!</em></p>
+
+
+<script type='text/javascript' src='js1.js'></script>
+
+
+</body>
+</html>
